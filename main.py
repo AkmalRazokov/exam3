@@ -41,16 +41,6 @@
 
 # задача 1
 # RU: Создайте функцию, которая выводит ваше имя и возраст.
-# lst=[]
-# def add_element(*args,**kwargs):
-#     for i in args:
-#              lst.append(i)
-#     for key, value in kwargs.items():
-#          lst.append(key)
-#          lst.append(value)
-# add_element(name='Ali', age=23)
-# print(lst)
-
 
 
 # def greet(name="Али",age=20):
